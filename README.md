@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é um site que se adapta ao horário em que é acessado.
+Este projeto é um site que verifica sua idade e gênero e lhe fornece um preview de uma pessoal com essas características.
 
 ## :memo: Licença
 
